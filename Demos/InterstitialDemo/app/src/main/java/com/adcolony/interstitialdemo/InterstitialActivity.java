@@ -16,9 +16,10 @@ import com.adcolony.sdk.AdColonyUserMetadata;
 import com.adcolony.sdk.AdColonyZone;
 
 public class InterstitialActivity extends Activity {
-    final private String APP_ID = "app185a7e71e1714831a49ec7";
-    final private String ZONE_ID = "vz06e8c32a037749699e7050";
-    final private String TAG = "AdColonyDemo";
+    final private String APP_ID = "app96a37cc07e0446629e
+";
+    final private String ZONE_ID = "MO6AezqFlKD1XiIr8ryJ";
+    final private String TAG = "Lagu Test";
 
     private Button showButton;
     private ProgressBar progress;
